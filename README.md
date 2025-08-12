@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi, I'm Ridho 🧑‍💻<br><br>🖥️ Computer Science student at Bina Nusantara University<br>🧑‍💼 Activist as Media and Publication at Cyber Security Community [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cscbinus/)<br>🔭 At the moment, I am exploring the fields of Cybersecurity.🔍<br/><br>
 ## 👥 My Socials: 
-[![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadridhoprakoso/)               [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ridhoprakoso/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mridhoprakoso@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadridhoprakoso/)               [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ridhoprakoso/)               [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mridhoprakoso@gmail.com)
 
 
 # 💻 Tech Stack:
