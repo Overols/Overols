@@ -1,5 +1,7 @@
 # 💫 About Me:
-## Hi, I'm Ridho 🧑‍💻<br><br>🖥️ Computer Science student at Bina Nusantara University<br/><br>🧑‍💼 Activist as Media and Publication at Cyber Security Community [Instagram](https://www.instagram.com/cscbinus/)<br>🔭 At the moment, I am exploring the fields of Cybersecurity.🔍<br/><br>👥 My Socials: [linkedin](https://www.linkedin.com/in/muhammadridhoprakoso/)<br>               [instagram](https://www.instagram.com/_ridhoprakoso/)
+## Hi, I'm Ridho 🧑‍💻<br><br>🖥️ Computer Science student at Bina Nusantara University<br/><br>🧑‍💼 Activist as Media and Publication at Cyber Security Community [Instagram](https://www.instagram.com/cscbinus/)<br>🔭 At the moment, I am exploring the fields of Cybersecurity.🔍<br/><br>👥 My Socials: 
+[linkedin](https://www.linkedin.com/in/muhammadridhoprakoso/)<br>               
+[instagram](https://www.instagram.com/_ridhoprakoso/)
 
 
 ## 🌐 Socials:
